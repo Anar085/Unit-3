@@ -1,17 +1,20 @@
 # Quiz 037
 
-## Paper Solution
-
-
-
-## Code
+## Python Code 
 ```.py
 
 
 
 ```
 
-## Proof of work
+## KivyMD Code 
 
+```.kv
+
+
+
+```
+
+## Proof of work
 
 
