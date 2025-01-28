@@ -1,11 +1,16 @@
 # Quiz 036
 
-## Paper Solution
 
-
-
-## Code
+## Python Code 
 ```.py
+
+
+
+```
+
+## KivyMD Code 
+
+```.kv
 
 
 
