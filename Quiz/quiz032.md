@@ -34,6 +34,8 @@ test.greet()
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/8bbe6289-03bd-407e-a751-825425db120f)
 
+## UML Diagram
+![image](https://github.com/user-attachments/assets/ca282f92-af5c-46c2-8aa4-e7ffb858f18a)
 
 
 
