@@ -31,5 +31,7 @@ print(test.get_grade())
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/06c1d1c9-6828-4e37-b920-157360673cd8)
 
+## UML Diagram
+![image](https://github.com/user-attachments/assets/9d94502e-d21d-477b-ae6d-ef5d21f32899)
 
 
