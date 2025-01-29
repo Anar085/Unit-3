@@ -27,3 +27,5 @@ print(test.calculate(years=2))
 
 ![image](https://github.com/user-attachments/assets/9965ca92-e916-4836-b42a-f3c1d6a00fb3)
 
+## UML Diagram
+![image](https://github.com/user-attachments/assets/e503712f-f85e-47c1-8faf-4ca58eae4d77)
