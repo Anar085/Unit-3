@@ -29,5 +29,9 @@ test.info()
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/d1143790-3523-40bc-bc4e-408fc1f57e19)
 
+## UML Diagram
+![image](https://github.com/user-attachments/assets/41c7602f-0f8c-4203-83e0-4c1674839df7)
+
+
 
 
