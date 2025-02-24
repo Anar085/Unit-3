@@ -33,5 +33,8 @@ m.show_books()
 
 ![image](https://github.com/user-attachments/assets/6c570038-45aa-41ef-a7a5-2e95221f0e5e)
 
+## UML Diagram 
+![image](https://github.com/user-attachments/assets/08bc5bef-970b-438e-bcd5-fd738405d2d4)
+
 
 
