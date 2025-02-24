@@ -35,5 +35,7 @@ print(m.word_count())
 
 ![image](https://github.com/user-attachments/assets/0aa1ab01-6abe-4cae-9a75-7ee5d1a798bb)
 
+## UML diagram 
+![image](https://github.com/user-attachments/assets/910d5ca1-c8e7-445e-8afd-3ce5f1a34df6)
 
 
