@@ -25,4 +25,6 @@ print(m.get_pal_list())
 ![image](https://github.com/user-attachments/assets/0bf1441f-7565-4c4d-8dd3-7d9c7d76d3c8)
 
 
+## UML diagram
+![image](https://github.com/user-attachments/assets/a7b8306f-331a-4179-9761-d1c4b0de9e90)
 
