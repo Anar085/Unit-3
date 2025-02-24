@@ -46,6 +46,10 @@ print(m.isUnionMember())
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/71d2ab87-b5d0-4d73-b591-7dbb89cfea28)
 
+## UML diagram
+![image](https://github.com/user-attachments/assets/6cac9d9a-5268-413c-afe4-22c18dc9f922)
+
+
 
 
 
