@@ -26,4 +26,7 @@ print(m.pour())
 ![image](https://github.com/user-attachments/assets/be24475a-b116-4065-8f29-cb8b734610c7)
 
 
+## UML diagram
+
+![image](https://github.com/user-attachments/assets/6b4e9b02-d62b-4b78-aef7-94049e585d89)
 
