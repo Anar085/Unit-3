@@ -36,6 +36,10 @@ print(f"{sunday.getProteinPercentage():.2f}")
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/437601c0-dde7-444d-a4d0-515054f564ec)
 
+## UML diagram
+![image](https://github.com/user-attachments/assets/64ce750f-ec2a-4943-8cf5-5868c59d4fa0)
+
+
 
 
 
