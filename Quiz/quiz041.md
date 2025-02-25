@@ -341,5 +341,7 @@ https://github.com/user-attachments/assets/e7f7f4a3-1049-4cc9-8403-2d1d437255eb
 ## UML diagram
 
 
+![image](https://github.com/user-attachments/assets/1a4120d0-6497-4f1a-9579-a702d117fbe8)
+
 
 
