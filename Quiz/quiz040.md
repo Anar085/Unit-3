@@ -4,10 +4,6 @@
 ```.py
 import sqlite3
 
-from docutils.nodes import problematic
-
-from secure_password import *
-
 db_name="smallCase.db"
 connection=sqlite3.connect(db_name)
 cursor=connection.cursor()
@@ -27,9 +23,16 @@ for id in range(1,21):
     customer_balance2=int(result2[2])
     if customer_balance1!=customer_balance2:
         problematic_customers.append(id)
+print(f"Here are of problematic customers:")
+for customer_id in problematic_customers:
+    get_user_query=f"""SELECT first_name,last_name from customers where customer_id={customer_id}"""
+    result3=cursor.execute(get_user_query).fetchone()
+    customer=f"{result3[0]} {result3[1]}"
+    print(customer)
 
-print(f"Here are the ids of problematic_customers: {problematic_customers}")
 connection.close()
+
+
 
 
 
@@ -38,8 +41,8 @@ connection.close()
 
 ## Proof of work
 
-![image](https://github.com/user-attachments/assets/9c9e014d-ba97-4cb6-a73a-f57e485eada8)
 
+![image](https://github.com/user-attachments/assets/11ff13a2-585b-4e01-b279-0f71f646e30b)
 
 
 
