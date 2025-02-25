@@ -40,7 +40,7 @@ connection.close()
 
 ![image](https://github.com/user-attachments/assets/9656e423-d227-43f0-8741-bf085e947756)
 
-## UML Diagram
+## ER Diagram
 
 
 ![image](https://github.com/user-attachments/assets/442ec837-8401-4d78-92f8-ac505e740ac7)
