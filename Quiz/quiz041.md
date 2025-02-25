@@ -334,6 +334,10 @@ MDScreen:
 
 
 
+https://github.com/user-attachments/assets/e7f7f4a3-1049-4cc9-8403-2d1d437255eb
+
+
+
 ## UML diagram
 
 
