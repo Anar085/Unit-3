@@ -1,6 +1,8 @@
 # Quiz 040
 ## ER diagram
 
+![image](https://github.com/user-attachments/assets/9987fafb-d3b7-4315-8652-a7805b8347ed)
+
 
 
 
